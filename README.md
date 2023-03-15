@@ -3,7 +3,8 @@
 
 - 🔭 We're currently working on **an Anime Recommendation System**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach Us **SpotForOtaku@gmail.com**
+
 <p align="left">
 </p>
 
